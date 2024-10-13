@@ -1,0 +1,52 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(219, 183, 137);
+}
+
+h1 {
+    font-weight: lighter;
+    font-style: italic;
+    text-transform: capitalize;
+    color: rgb(240, 11, 56);
+    font-size: 100px;
+}
+
+p {
+    font: 20px;
+}
+
+img#left {
+    float: left;
+    height: 150px;
+    width: 150px;
+}
+
+img#right {
+    float: right;
+    height: 150px;
+    width: 150px;
+}
+
+.wishing {
+    font-size: 50px;
+}
+
+.letter {
+    font-size: 22px;
+    font-style: normal;
+    background-color: rgb(212, 247, 247);
+    border: 5px solid green;
+    padding: 10px;
+
+}
+
+.a {
+    font-size: 18px;
+}
+
+#ab {
+    text-align: center;
+}
